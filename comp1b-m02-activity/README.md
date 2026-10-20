@@ -52,6 +52,7 @@ content-box:
 
 border-box:
 240, 240, 264
+
 ## Acutal-results
 content-box:
 240, 276, 300
@@ -59,9 +60,11 @@ I was confused and guessed based on other info. like padding, but after reading 
 border-box:
 204, 240, 264
 The content width changed because the padding and border are inside the declared width, not outside.
+
 ## Measurements
 
 ## Display
+When comparing inline, inline-block, and block, I didn't notice a difference with the latter two, compared to the inline attribute. Inline added a small box around the word "practice". With both inline-block & block, it extended the box by width, but only to the right. It made the box off-center of the word.
 
 ## Responsive checks
 Project folder name: comp1b-m02-activity-starter
