@@ -62,6 +62,11 @@ border-box:
 The content width changed because the padding and border are inside the declared width, not outside.
 
 ## Measurements
+Responsive width 375 CSS pixels:
+327px
+
+1024 CSS pixels:
+608px
 
 ## Display
 When comparing inline, inline-block, and block, I didn't notice a difference with the latter two, compared to the inline attribute. Inline added a small box around the word "practice". With both inline-block & block, it extended the box by width, but only to the right. It made the box off-center of the word.
