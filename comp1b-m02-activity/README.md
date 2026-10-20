@@ -47,7 +47,10 @@ Activity Text Entry remains available only as described in the Canvas directions
 AI-assisted or AI-generated content is prohibited. Complete and explain your own work under the existing course policy. Do not include keys, credentials, tokens, or private settings. Preserve the supplied license and identify reused material.
 
 ## Predictions
-16, 2, 12
+240, 288?, 316?
+## Acutal-results
+240, 276, 300
+I was confused and guessed based on other info. like padding, but after reading further along, I understood how to actually predict the footprint.
 ## Measurements
 
 ## Display
