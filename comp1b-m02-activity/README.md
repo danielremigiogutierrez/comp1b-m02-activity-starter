@@ -47,10 +47,18 @@ Activity Text Entry remains available only as described in the Canvas directions
 AI-assisted or AI-generated content is prohibited. Complete and explain your own work under the existing course policy. Do not include keys, credentials, tokens, or private settings. Preserve the supplied license and identify reused material.
 
 ## Predictions
+content-box:
 240, 288?, 316?
+
+border-box:
+240, 240, 264
 ## Acutal-results
+content-box:
 240, 276, 300
 I was confused and guessed based on other info. like padding, but after reading further along, I understood how to actually predict the footprint.
+border-box:
+204, 240, 264
+The content width changed because the padding and border are inside the declared width, not outside.
 ## Measurements
 
 ## Display
