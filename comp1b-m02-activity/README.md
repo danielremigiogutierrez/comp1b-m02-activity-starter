@@ -45,3 +45,13 @@ Activity Text Entry remains available only as described in the Canvas directions
 ## Academic integrity and privacy
 
 AI-assisted or AI-generated content is prohibited. Complete and explain your own work under the existing course policy. Do not include keys, credentials, tokens, or private settings. Preserve the supplied license and identify reused material.
+
+## Predictions
+16, 2, 12
+## Measurements
+
+## Display
+
+## Responsive checks
+Project folder name: comp1b-m02-activity-starter
+I opened the folder in VS Code, clicked on index.html, and opened it in Integrated Browser.
